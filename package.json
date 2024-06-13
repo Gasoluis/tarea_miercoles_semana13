@@ -1,0 +1,17 @@
+{
+  "name": "tarea_miercoles",
+  "version": "1.0.0",
+  "description": "Tarea Miercoles Seman_13",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Garcia Soria",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.7.2"
+  },
+  "dependencies": {
+    "react-dom": "^18.3.1"
+  }
+}
